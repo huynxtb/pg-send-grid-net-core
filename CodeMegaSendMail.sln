@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMegaSendMail", "CodeMegaSendMail\CodeMegaSendMail.csproj", "{E9A639A4-2AC2-40EF-9786-9C61AED70B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A639A4-2AC2-40EF-9786-9C61AED70B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A639A4-2AC2-40EF-9786-9C61AED70B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A639A4-2AC2-40EF-9786-9C61AED70B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A639A4-2AC2-40EF-9786-9C61AED70B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81FBCB18-C0FB-4009-A2E7-EFB20B4ADC7F}
+	EndGlobalSection
+EndGlobal
